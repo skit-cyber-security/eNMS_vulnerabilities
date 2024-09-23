@@ -22,7 +22,9 @@ Within the application there are 6 vulnerable parameters for reading/uploading s
 
 
 # References
-https://www.cve.org/CVERecord?id=CVE-2024-46644
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=2024-46644<br>
+https://nvd.nist.gov/vuln/detail/CVE-2024-46644<br>
+https://vuldb.com/?id.278233
 # Credits
 **Andrea Pessione** and **Manuel Scala** <br></br>
 <a href="https://sk-it.com/"><img src="img/skit_logo.png" width="300">
